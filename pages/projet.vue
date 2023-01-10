@@ -32,7 +32,7 @@
     </div>
     <div class="max-w-sm bg-teal-900 rounded overflow-hidden ml-12 mt-4 shadow-lg">
         <div class="px-6 py-4">
-          <div class="font-bold text-xl mb-2 opacity-50 text-white">iaigestion</div>
+          <div class="font-bold text-xl mb-2 opacity-50 text-white">aidedon</div>
           <p class="text-base text-white">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
           </p>

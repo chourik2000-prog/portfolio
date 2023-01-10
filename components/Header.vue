@@ -3,7 +3,7 @@
         <navbar class="flex items-center mb-8 mt-4">
             <!-- <img class="object-contain w-35 h-14" src="@/assets/image/pc1.jpg" alt="logo de tailwind"> -->
             <div class="text-green-600 font-burtons text-2xl ml-5 grid grid-cols-6 place-content-start">
-                <NuxtLink to=""><strong class="/apropos">CKF</strong></NuxtLink>
+                <NuxtLink to="/contact"><strong>CKF</strong></NuxtLink>
             </div>
             <div class="items-center flex space-x-6 flex">
                 <div class="text-xs text-white font-bold">
@@ -24,8 +24,8 @@
                 <div class="text-xs text-white font-bold">
                     <NuxtLink to="/vision"><strong class="text-green-600">06. </strong>Vision</NuxtLink>
                 </div>
-                <div class="text-xs justify-center text-white shadow-lg shadow-green-500/50 border-2 px-2 border-green-600 brightness-200 h-6">
-                    <NuxtLink to="https://www.google.com/intl/fr/gmail/about/" class="items-center"><strong>foussenichourik@gmail.com</strong></NuxtLink>
+                <div class="text-xs justify-center text-white shadow border-2 px-2 border-green-600 brightness-200 h-6">
+                    <a href="https://www.google.com/intl/fr/gmail/about/" class="items-center"><strong>foussenichourik@gmail.com</strong></a>
                 </div>
             </div>
         </navbar>

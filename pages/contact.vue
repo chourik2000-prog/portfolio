@@ -7,11 +7,11 @@
                     rounded-l-lg border-1 border-indigo-600" src="@/assets/image/contact1.jpg" alt="logo de code">
             </div>
             <div class="brightness-20 basis-1/3 p-4 shadow-lg shadow-cyan-500/50 rounded-l-lg border-1 border-indigo-600"> 
-                <p class="text-justify mt-2 text-sm">
-                    personnaliser votre expérience selon vos centres d'intérêt,
-                    assurer une navigation en toute sécurité et établir des statistiques
-                    de fréquentation et de navigation.Vous pouvez changer d'avis en
-                    paramétrant vos cookies depuis la rubrique "Paramètres des cookies".
+                <p class="mt-2 grid">
+                    <span class="font-bold opacity-50 text-green-600">Email: </span><span>foussenichourik@gmail.com</span><br>
+                    <span class="font-bold opacity-50 text-green-600">Numéro: </span><span>+22870158802/+22879848243</span><br>
+                    <span class="font-bold opacity-50 text-green-600">Github: </span><span>https://github.com/chourik2000-prog</span><br>
+                    <span class="font-bold opacity-50 text-green-600">Linkedin:</span><span>https://www.linkedin.com/in/chourik-fousseni-146000199/</span>
                 </p>
             </div>
         </div>
