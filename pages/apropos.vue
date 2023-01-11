@@ -6,15 +6,19 @@
             </div> 
             <div class="flex justify-start ml-12">
                 <div class="basis-2/3 bg-white p-4 brightness-20 shadow-lg shadow-cyan-500/50 rounded border-1 border-indigo-600">
-                <h4 class="text-justify mt-2 text-xs">
-                    En cliquant sur "Tout accepter", vous acceptez 
-                    que le Groupe Furet du nord-Decitre traite vos données
-                    personnelles stockées sur votre appareil et accède à vos
-                    données afin d'améliorer la navigation sur le site,
-                    personnaliser votre expérience selon vos centres d'intérêt,
-                    assurer une navigation en toute sécurité et établir des statistiques 
-                    de fréquentation et de navigation. Vous pouvez changer d'avis en 
-                    paramétrant vos cookies depuis la rubrique "Paramètres des cookies".
+                <h4 class="text-justify mt-2 text-sm">
+                    <span>
+                        Je m'appelle Chourik et je suis analyste programmeur avec plus de 2 ans
+                        d'expérience. Mon principal domaine de compétence est le développement web,
+                        et j'utilise principalement le langage PHP en combinaison avec le framework Laravel.
+                        J'utilise également TailwindCSS et Nuxt pour le développement front-end.
+                    </span><br>
+                    <span>
+                        J'ai 22 ans, et je suis originaire du Togo. En dehors de ma passion pour la programmation,
+                        j'aime également pratiquer des sports, tels que le basketball et le tourisme. Je suis également
+                        toujours à la recherche de nouveaux défis et opportunités pour développer mes compétences en tant
+                        que développeur web.
+                    </span>
                 </h4>
                 <div class="flex gap-4 pt-4">
                     <img class="brightness-20 shadow-lg shadow-cyan-500/50 w-40 h-40

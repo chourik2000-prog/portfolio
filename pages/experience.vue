@@ -5,16 +5,29 @@
         <img class="brightness-20 shadow-lg shadow-cyan-500/50 w-60 h-60
             rounded-l-lg border-1 border-indigo-600" src="@/assets/image/femme2.jpg" alt="logo de code">
     </div>
-        <div class="brightness-20 basis-1/3 p-4 shadow-lg shadow-cyan-500/50 rounded-l-lg border-1 border-indigo-600"> 
+        <div class="brightness-20 basis-1/2 p-4 shadow-lg shadow-cyan-500/50 rounded-l-lg border-1 border-indigo-600"> 
             <p class="text-justify mt-2 text-sm">
-                En cliquant sur "Tout accepter", vous acceptez 
-                que le Groupe Furet du nord-Decitre traite vos données
-                personnelles stockées sur votre appareil et accède à vos
-                données afin d'améliorer la navigation sur le site,
-                personnaliser votre expérience selon vos centres d'intérêt,
-                assurer une navigation en toute sécurité et établir des statistiques 
-                de fréquentation et de navigation. Vous pouvez changer d'avis en 
-                paramétrant vos cookies depuis la rubrique "Paramètres des cookies".
+                <span>
+                    Au cours de mes études, j'ai eu l'opportunité de compléter deux 
+                    stages professionnels qui ont considérablement renforcé mes compétences
+                    en tant que développeur.
+                </span><br>
+                <span>
+                    Au cours de mes études, j'ai eu l'opportunité de compléter deux stages
+                    professionnels qui ont considérablement renforcé mes compétences en tant que développeur.
+                </span><br>
+                <span>
+                    Ensuite, j'ai effectué un stage de perfectionnement à IAI-TOGO, où j'ai aidé à mettre
+                    en place une application de gestion de stock des fournitures et matériels de bureau 
+                    de l'IAI-TOGO. Ce stage m'a permis d'approfondir mes compétences en développement 
+                    d'application de gestion de stock, et en utilisation de solution de gestion de base de données.
+                </span><br>
+                <span>
+                    Grâce à ces expériences de stage, j'ai développé des compétences techniques solides en programmation,
+                     mais aussi des compétences en matière de communication, de résolution de problèmes et de travail en 
+                     équipe. Je suis convaincu que ces expériences m'ont préparé à poursuivre une carrière réussie en tant 
+                     que développeur web.
+                </span>
             </p>
         </div>
     </div>
