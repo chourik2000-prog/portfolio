@@ -8,10 +8,10 @@
             </div>
             <div class="brightness-20 basis-1/3 p-4 shadow-lg shadow-cyan-500/50 rounded-l-lg border-1 border-indigo-600"> 
                 <p class="mt-2 grid">
-                    <span class="font-bold opacity-50 text-green-600">Email: </span><span>foussenichourik@gmail.com</span><br>
-                    <span class="font-bold opacity-50 text-green-600">Numéro: </span><span>+22870158802/+22879848243</span><br>
-                    <span class="font-bold opacity-50 text-green-600">Github: </span><span>https://github.com/chourik2000-prog</span><br>
-                    <span class="font-bold opacity-50 text-green-600">Linkedin:</span><span>https://www.linkedin.com/in/chourik-fousseni-146000199/</span>
+                    <span class="font-bold opacity-50 text-green-600">Email: </span><a href="https://www.google.com/intl/fr/gmail/about/" class="text-blue-500 underline">foussenichourik@gmail.com</a><br>
+                    <!-- <span class="font-bold opacity-50 text-green-600">Numéro: </span><span class="text-blue-500">+22870158802/+22879848243</span><br> -->
+                    <span class="font-bold opacity-50 text-green-600">Github: </span><a href="https://github.com/chourik2000-prog" class="text-blue-500 underline">https://github.com/chourik2000-prog</a><br>
+                    <span class="font-bold opacity-50 text-green-600">Linkedin:</span><a href="https://www.linkedin.com/in/chourik-fousseni-146000199/" class="text-blue-500 underline">https://www.linkedin.com/in/chourik-fousseni-146000199/</a>
                 </p>
             </div>
         </div>

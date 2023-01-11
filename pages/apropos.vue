@@ -8,7 +8,7 @@
                 <div class="basis-2/3 bg-white p-4 brightness-20 shadow-lg shadow-cyan-500/50 rounded border-1 border-indigo-600">
                 <h4 class="text-justify mt-2 text-sm">
                     <span>
-                        Je m'appelle Chourik et je suis analyste programmeur avec plus de 2 ans
+                        Je suis Chourik et je suis analyste programmeur avec plus de 2 ans
                         d'expérience. Mon principal domaine de compétence est le développement web,
                         et j'utilise principalement le langage PHP en combinaison avec le framework Laravel.
                         J'utilise également TailwindCSS et Nuxt pour le développement front-end.

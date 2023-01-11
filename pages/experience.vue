@@ -8,25 +8,21 @@
         <div class="brightness-20 basis-1/2 p-4 shadow-lg shadow-cyan-500/50 rounded-l-lg border-1 border-indigo-600"> 
             <p class="text-justify mt-2 text-sm">
                 <span>
-                    Au cours de mes études, j'ai eu l'opportunité de compléter deux 
-                    stages professionnels qui ont considérablement renforcé mes compétences
+                    Au cours de mes études, j'ai eu l'opportunité de faire un stage de fin de formation
+                     qui a considérablement renforcé mes compétences
                     en tant que développeur.
-                </span><br>
-                <span>
-                    Au cours de mes études, j'ai eu l'opportunité de compléter deux stages
-                    professionnels qui ont considérablement renforcé mes compétences en tant que développeur.
                 </span><br>
                 <span>
                     Ensuite, j'ai effectué un stage de perfectionnement à IAI-TOGO, où j'ai aidé à mettre
                     en place une application de gestion de stock des fournitures et matériels de bureau 
                     de l'IAI-TOGO. Ce stage m'a permis d'approfondir mes compétences en développement 
-                    d'application de gestion de stock, et en utilisation de solution de gestion de base de données.
+                    d'application,et en utilisation de base de données.
                 </span><br>
                 <span>
                     Grâce à ces expériences de stage, j'ai développé des compétences techniques solides en programmation,
                      mais aussi des compétences en matière de communication, de résolution de problèmes et de travail en 
                      équipe. Je suis convaincu que ces expériences m'ont préparé à poursuivre une carrière réussie en tant 
-                     que développeur web.
+                     que développeur.
                 </span>
             </p>
         </div>
